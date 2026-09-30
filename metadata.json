@@ -1,0 +1,7 @@
+{
+  "name": "Operator Workspace",
+  "description": "AI-assisted workspace for deterministic room workflows",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
