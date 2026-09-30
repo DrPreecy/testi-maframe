@@ -8,13 +8,13 @@
 
 ## Changes
 
-- 
+- <!-- Summarize a change. -->
 
 ## Acceptance evidence
 
 <!-- Describe how each acceptance criterion was demonstrated. -->
 
-- 
+- <!-- Link a criterion to its evidence. -->
 
 ## Quality gates
 
